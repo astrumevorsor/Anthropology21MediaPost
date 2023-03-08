@@ -22,15 +22,15 @@ You can reach out to the course instructors and the authors for any questions pe
 
 ### Authors 
 
-1. Aryamun Narayan Das- a3das@ucsd.edu
-2. Aarav Singh Pruthi- Apruthi@ucsd.edu
+1. Aryamun Narayan Das- a3das@ucsd.edu A17050602
+2. Aarav Singh Pruthi- Apruthi@ucsd.edu A16877338
 
 ### Instructors
-1. Dr. Amy Kennemore- 
-2.
-3.
-4.
-5. 
+1. Dr. Amy Kennemore- akennemore@ucsd.edu
+2. Fatimah Kanth- mkanth@ucsd.edu
+3. Annika Stone- abadamso@ucsd.edu
+4. Loren Clark- lrclark@ucsd.edu
+5. Michael Hillyer- mhillyer@ucsd.edu
 
 ## Introduction
 
