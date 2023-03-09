@@ -78,3 +78,7 @@ humans.
 ### Bothersome Biases-
 ### Cognitive 
 
+  
+## How Anthropology helps
+  
+
