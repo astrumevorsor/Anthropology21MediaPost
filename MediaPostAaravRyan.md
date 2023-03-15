@@ -90,13 +90,20 @@ Anthropology identifies the potential pitfalls and biases of the human side and 
 ### Influential Information- The mind games that is social media and online ads
 
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJgWAaXl5Vw4YufnisrCB4Y24RFUNawugVATVMkzjHhR9c8rJuNXlEM3EqgynZj4R0go&usqp=CAU)
+
+
 Sourced from the Social Dilemma (https://www.netflix.com/title/81254224) and O’Neil, Cathy, 2016. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
 
 We live in an age in which we use algorithms and AI. But what if someone told you, that algorithms and AI weren't used *by you* but they were *using you*.
 
 Scary, isn't it? 
 
+![Image](https://cdn.shopify.com/s/files/1/1061/1924/products/Flushed_Face_Emoji_large.png?v=1571606037)
+
+
 Well the unfortunate fact is, this is the truth in real life. Social media platforms and online ads, as proposed by the Social Dilemma netflix documentary, manipulate people psychologically through their version of the truth. The big tech companies push their narrative as a majority to your screen through their algorithms deliberately, and slowly fine tune your dopamine to certain topics, which causes you to pay more attention to those topics. It is a very subtle and slow change. Take for example, in real life. You watch a tiktok video where your favorite influencer is eating some food on a livestream. You watch this. Slowly over the next few days, tiktok puts food videos on your for you page and slowly enough you cannot stop thinking about food! Moreover, you will obviously get hungry thinking about food as ghrelin, your food androgen, gets triggered and you'll look to order something. Boom, all of a sudden you're thinking of ordering something and an online ad magically pops up for the latest offer on uber eats. You cannot resist temptation and swipe your card. They now have your attention and your money. Wasn't that the whole point of social media founders anyways? You eat here, they get your money and make their hefty corporate paycheck. Everyone goes home satisfied. Or do they?
+
+
 
 What if person X with racist origins and biases founded a social media platform? Or got hired in the algorithms team? How about that. Would you be able to stop that person? Don't even bother answering that question, because by the time you think of stoping them, they have already taken control of your mindset and your head. You are just a sheep in the herd. Your right to free speech and your freedoms are surrendered to your phone. 
 
