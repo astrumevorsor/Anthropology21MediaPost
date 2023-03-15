@@ -82,29 +82,44 @@ humans.
 
 Whatever humans falter in, is compounded and reflected by their creations. 
 
+## How Anthropology helps
+![Image](https://i.imgflip.com/7dtbbm.jpg)
+
+Anthropology identifies the potential pitfalls and biases of the human side and mediates them, thereby minimising but not removing the biases that occur on the human side. 
+
 ### Influential Information- The mind games that is social media and online ads
 
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJgWAaXl5Vw4YufnisrCB4Y24RFUNawugVATVMkzjHhR9c8rJuNXlEM3EqgynZj4R0go&usqp=CAU)
+Sourced from the Social Dilemma (https://www.netflix.com/title/81254224) and O’Neil, Cathy, 2016. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
 
+We live in an age in which we use algorithms and AI. But what if someone told you, that algorithms and AI weren't used *by you* but they were *using you*.
+
+Scary, isn't it? 
+
+Well the unfortunate fact is, this is the truth in real life. Social media platforms and online ads, as proposed by the Social Dilemma netflix documentary, manipulate people psychologically through their version of the truth. The big tech companies push their narrative as a majority to your screen through their algorithms deliberately, and slowly fine tune your dopamine to certain topics, which causes you to pay more attention to those topics. It is a very subtle and slow change. Take for example, in real life. You watch a tiktok video where your favorite influencer is eating some food on a livestream. You watch this. Slowly over the next few days, tiktok puts food videos on your for you page and slowly enough you cannot stop thinking about food! Moreover, you will obviously get hungry thinking about food as ghrelin, your food androgen, gets triggered and you'll look to order something. Boom, all of a sudden you're thinking of ordering something and an online ad magically pops up for the latest offer on uber eats. You cannot resist temptation and swipe your card. They now have your attention and your money. Wasn't that the whole point of social media founders anyways? You eat here, they get your money and make their hefty corporate paycheck. Everyone goes home satisfied. Or do they?
+
+What if person X with racist origins and biases founded a social media platform? Or got hired in the algorithms team? How about that. Would you be able to stop that person? Don't even bother answering that question, because by the time you think of stoping them, they have already taken control of your mindset and your head. You are just a sheep in the herd. Your right to free speech and your freedoms are surrendered to your phone. 
+
+This is why AI through social media is so dangerous. Remember, AI is a tool, but who uses the tool? Who creates it? Humans. If someone creates a product, remember that they can at anytime alter the product slightly to malfunction or perform the same thing differently. This is why we need AI ethics review bodies which are detached from the companies executive and technical bodies. Each and every employee's personal beliefs should be screened and they should undergo training to minimize their personal reflections in their product. Code should be reviewed thoroughly by experts and the intent of each algorithm should be made public to the users, whether their code is open source or not. This makes sense and brings about accountability. 
 
 
 ### Problematic Programs- Weapons of math destruction
 
 ![Image](https://secondhome.io/wp-content/uploads/2019/11rnV4INKRyXRttuUw.jpg)
-(Credits: Cathy O'Neil, 2016)
+Sourced from O’Neil, Cathy, 2016. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
+and ProPublica, 2016 (https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm). 
 
-### Diabolical Datasets- A COMPAS in the wrong direction
+Cathy O'Neil very correctly said, we are in an era of data science, the "Weapons of Math Destruction." Confirmed by Tim Lau's podcast and the 2016 ProPublica research article, the COMPAS dataset is one such example. Algorithms rely on data for their modification and data relies on algorithms for their preprocessing. This is one such case where both sides went horribly wrong.
+
+Recidivism from the COMPAS dataset inference predicted that African American offenders were more likely to commmit a crime a second time after release, while in reality the Caucasian offenders did so. The dataset was heavily skewed towards African American offenders as it had more cases of reported crimes, an anomaly in itself considering many crimes committed by Caucasians isn't even reported in more conservative states. 
+
+To add on, the magnitude of severity of the first crime was not weighed in, nor was the psychological evaluation or background of the offender. This goes to show that statistics are not fully reliable. There is very much a human factor involved in everything, whether it be the justice system or real life interactions, for which statistics cannot possibly account for, because mathematics does not work with emotions. Emotions and psychology are very much a chemical driven concept, which we really cannot predict, it depends on the background of people and their past experiences. Take nearly 8 billion people. There is not a single chance with the current level of computation and datasets that we can account for the feelings of every single human being on the planet and say, this person will be a repeat criminal and this person will not. 
+
+With this being said, situations such as the above are labelled blindspots in data science, or WMDs. One blindspot can absolutely alienate an entire ethnic group if not carefully considered and brought to the attention of people. Anthropological research and not for profit organizations achieve this purpose through studying every such case and identifying blindspots, publishing them to the public eye and taking affirmative action against such anomalies.
+
 
 ![Image](https://s3.us-east-1.amazonaws.com/data-publica/assets/example/opener-b-crop-1200-675-00796e.jpg)
-(Credits: ProPublica, 2016)
 
-
-
-  
-## How Anthropology helps
-![Image](https://i.imgflip.com/7dtbbm.jpg)
-
-Anthropology identifies the potential pitfalls and biases of the human side and mediates them, thereby minimising but not removing the biases that occur on the human side. 
 
 ### Relational Biases-
 In human relationships, prejudices can result in unjust treatment and incorrect conclusions. These prejudices might be intentional or unintentional, and they frequently depend on characteristics like gender, color, age, and appearance. They can take many forms, including discrimination, prejudice, and stereotyping. Unwelcome biases can result in missed opportunities, a lack of diversity, and poor performance, among other undesirable results (Summarised from Week 1, lectures 1 and 2, and [Week 10](https://padlet.com/akennemore/anth-21-module-5-resource-board-intergroup-trust-belonging-sz1f729ofg71rb6k/wish/2394763844). Distrust between groups and lack of intersectionality also plays a part in this. 
@@ -114,6 +129,7 @@ In order to overcome these biases, it is critical to be aware of them, actively 
 Discrimination is faced because of the projection of the majority opinion on minorities, majorities occupying positions of power, minorities unable to fight back and succumbing to their opinion because they do not have any support or knowledge to fight the discrimination. 
 
 Anthropology brings non-intersecting groups together under a common umbrella, divided by the majority and united by their experiences. Through the sharing of perspectives and an anthropological breakdown of the discrimination faced, minorities as well as majorities can be well equipped to identify and tackle these issues. The ProPublica study on the COMPAS dataset is a prime example. It was a jolt and a shockwave across the tech industry, bringing a furore within tech minorities and keeping a check on majorities to act accountably. This interpersonal accountability is brought about by Anthropology, along with the unison of minority groups to fight against hatred as one. 
+
 
 ### Hiring Biases-
 
@@ -125,3 +141,7 @@ To expand on the above, DEI training could be considered a solution, however, in
 
 Another very human sentiment is vanity. If not ethics, human beings always succumb to the pressure of validation and vanity. The fear of not being socially acceptable and being shunned is a constant one. This human sentiment is driven to do positive things through anthropology. Anhtropological concepts and methodologies such as diversity camps, increased recruitment from minorities, exposure to minority surroundings, etc. have shown to drive up the reprsentation of minorities and a positive feeling around them. This means more minorities in the workplace and more people to interact with. People are motivated to be acceptible, which makes them accountable. It is this accountability which we need in the 21st century workplace, which is not possible without an anthropological intervention.
 
+
+To conclude, anthropology serves as a screen for identifying changes to be made and keeps every stakeholder in the algorithmic decision making process accountable. With this accountability, we can ensure that AI is ethical and safe for all, moreover being accessible to everyone and accounting for every group's point of view, whether majority or minority. 
+
+With that, we'd like to thank you for reading our post and bid you goodbye. If possible, please share this with your classmates and family members as we have worked tirelessly to bring this issue to the attention of the public and be of great support to us in our future endeavors.
