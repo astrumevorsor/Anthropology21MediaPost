@@ -71,6 +71,17 @@ Artificial intelligence is basically the simulation of sentient tasks using comp
 
 So, why do we say that people do what AI accomplishes better, despite AI models being run on supercomputers much more powerful than human brains?
 
+
+## The reason: Who's behind this all?
+
+Of course it is one species, who else could it be. The creator, the designer, the inventor of all things artificial,
+
+![Image](https://img.buzzfeed.com/buzzfeed-static/static/2023-01/23/15/campaign_images/e470a0b884c3/83-times-michael-scott-from-the-office-made-us-bu-2-536-1674489171-13_dblbig.jpg)
+
+humans.
+
+Whatever humans falter in, is compounded and reflected by their creations. 
+
 ### Influential Information- The mind games that is social media and online ads
 
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJgWAaXl5Vw4YufnisrCB4Y24RFUNawugVATVMkzjHhR9c8rJuNXlEM3EqgynZj4R0go&usqp=CAU)
@@ -87,23 +98,30 @@ So, why do we say that people do what AI accomplishes better, despite AI models 
 ![Image](https://s3.us-east-1.amazonaws.com/data-publica/assets/example/opener-b-crop-1200-675-00796e.jpg)
 (Credits: ProPublica, 2016)
 
-## The human side: Who's behind this all?
-
-Of course it is one species, who else could it be. The creator, the designer, the inventor of all things artificial,
-
-![Image](https://img.buzzfeed.com/buzzfeed-static/static/2023-01/23/15/campaign_images/e470a0b884c3/83-times-michael-scott-from-the-office-made-us-bu-2-536-1674489171-13_dblbig.jpg)
-
-humans.
-
-Whatever humans falter in, is compounded and reflected by their creations. Let us understand the mechanisms behind why we are going wrong in the human side of this Human-Computer Interaction. 
-
-
-### Bothersome Biases-
-
-### Hiring Hierarchies-
 
 
   
 ## How Anthropology helps
 ![Image](https://i.imgflip.com/7dtbbm.jpg)
+
+Anthropology identifies the potential pitfalls and biases of the human side and mediates them, thereby minimising but not removing the biases that occur on the human side. 
+
+### Relational Biases-
+In human relationships, prejudices can result in unjust treatment and incorrect conclusions. These prejudices might be intentional or unintentional, and they frequently depend on characteristics like gender, color, age, and appearance. They can take many forms, including discrimination, prejudice, and stereotyping. Unwelcome biases can result in missed opportunities, a lack of diversity, and poor performance, among other undesirable results (Summarised from Week 1, lectures 1 and 2, and [Week 10](https://padlet.com/akennemore/anth-21-module-5-resource-board-intergroup-trust-belonging-sz1f729ofg71rb6k/wish/2394763844). Distrust between groups and lack of intersectionality also plays a part in this. 
+
+In order to overcome these biases, it is critical to be aware of them, actively attempt to lessen their impact, and pursue objectivity and justice in the decision-making process.
+
+Discrimination is faced because of the projection of the majority opinion on minorities, majorities occupying positions of power, minorities unable to fight back and succumbing to their opinion because they do not have any support or knowledge to fight the discrimination. 
+
+Anthropology brings non-intersecting groups together under a common umbrella, divided by the majority and united by their experiences. Through the sharing of perspectives and an anthropological breakdown of the discrimination faced, minorities as well as majorities can be well equipped to identify and tackle these issues. The ProPublica study on the COMPAS dataset is a prime example. It was a jolt and a shockwave across the tech industry, bringing a furore within tech minorities and keeping a check on majorities to act accountably. This interpersonal accountability is brought about by Anthropology, along with the unison of minority groups to fight against hatred as one. 
+
+### Hiring Biases-
+
+(https://hbr.org/2016/07/why-diversity-programs-fail)
+
+Hiring biases are unintentional or intentional prejudices that have an impact on the recruiting decision-making process and cause candidates to be chosen based on criteria unrelated to their work performance or credentials. These prejudices can show themselves in different ways, depending on factors including gender, race, ethnicity, age, physical appearance, and educational background. Hiring biases can significantly affect the workplace's diversity and inclusivity as well as the business's overall success. To overcome recruiting biases, firms can employ measures such as blind resume screening, diversity training, and developing diverse hiring committees. 
+
+To expand on the above, DEI training could be considered a solution, however, in practice, they are deemed ineffective. An anthropological overview shows that with interpersonal relationships, we do know the answers to the questions, but seem to be in a tutorial hell when it comes to implementing these solutions in real life. Companies use very negative sentiments with negative repercussions at present to curb relational biases. This creates a negative feedback loop which in turn causes employees to react negatively to the corporate structure, as DEI training is used as a punishment of sorts, creating a stigma against the whole concept. Encouraging the importance of the Business-Psychological factor of DEI, which deals with sentiments of classically discriminated groups and factors them into companies and algorithmic decision making is key to solving this problem. Anthropology puts forward these perspectives and sentiments of minority groups through its stories, and interestingly appreciates differences betweeen the general opinion and the minority opinion. The stigma against DEI can be removed through this positive reinforcement of creating better products and services for customers this way, while having thorough respect and attention to the minority stories and narratives. 
+
+Another very human sentiment is vanity. If not ethics, human beings always succumb to the pressure of validation and vanity. The fear of not being socially acceptable and being shunned is a constant one. This human sentiment is driven to do positive things through anthropology. Anhtropological concepts and methodologies such as diversity camps, increased recruitment from minorities, exposure to minority surroundings, etc. have shown to drive up the reprsentation of minorities and a positive feeling around them. This means more minorities in the workplace and more people to interact with. People are motivated to be acceptible, which makes them accountable. It is this accountability which we need in the 21st century workplace, which is not possible without an anthropological intervention.
 
