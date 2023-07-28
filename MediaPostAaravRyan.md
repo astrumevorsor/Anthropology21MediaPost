@@ -107,7 +107,7 @@ What if person X with racist origins and biases founded a social media platform?
 
 ![Image](https://eightieskids.com/wp-content/uploads/2016/05/10-24.jpg)
 
-This is why AI through social media is so dangerous. Remember, AI is a tool, but who uses the tool? Who creates it? Humans. If someone creates a product, remember that they can at anytime alter the product slightly to malfunction or perform the same thing differently. This is why we need AI ethics review bodies which are detached from the companies executive and technical bodies. Each and every employee's personal beliefs should be screened and they should undergo training to minimize their personal reflections in their product. Code should be reviewed thoroughly by experts and the intent of each algorithm should be made public to the users, whether their code is open source or not. This makes sense and brings about accountability. 
+This is why AI through social media is so dangerous. Remember, AI is a tool, but who uses the tool? Who creates it? Humans. If someone creates a product, remember that they can at anytime alter the product slightly to malfunction or perform the same thing differently. This is why we need AI ethics review bodies which are detached from the companies executive and technical bodies. Each and every employee's personal beliefs should be screened and they should undergo training to minimize their personal reflections in their product. Code should be reviewed thoroughly by experts and the models should be made public to the users. This makes sense and brings about accountability. 
 
 
 ### Problematic Programs- Weapons of math destruction
